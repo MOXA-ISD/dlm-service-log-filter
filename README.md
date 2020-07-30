@@ -1,2 +1,3 @@
 # dlm-service-log-filter
-Receive logs from Kinesis, and process it
+
+Process logs from fluentd, copy ERROR log into cloudwatch logs for future troubleshooting.
